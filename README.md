@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rthiru96
-- 👀 I’m interested in ...React & Django
+- 👀 I’m interested in ...React & Node(NestJs and Fastify)
 - 🌱 I’m currently learning ...Typescript & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
