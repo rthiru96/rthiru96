@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rthiru96
-- 👀 I’m interested in ...[React,React Native,NestJs,Fastify)]
+- 👀 I’m interested in ...[React,React Native,NestJs,Fastify]
 - 🌱 I’m currently learning ...Typescript && React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
