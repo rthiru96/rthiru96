@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...[React,React Native,NestJs]
 - 🌱 I’m currently learning ...Typescript && React
 - 💞️ I’m looking to collaborate on Messaging Platforms...
-- 📫 How to reach me ...
+
 
 <!---
 rthiru96/rthiru96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
