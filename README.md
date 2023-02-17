@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rthiru96
-- 👀 I’m interested in ...[React,React Native,NestJs]
+- 👀 I’m interested in ...[React and Golang]
 - 🌱 I’m currently learning ...Typescript && React
 - 💞️ I’m looking to collaborate on Messaging Platforms...
 
