@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rthiru96
 - 👀 I’m interested in ...[React and Golang]
-- 🌱 I’m currently learning ...Gin-Gonic && gRPC
+- 🌱 I’m currently learning ...Golang
 - 💞️ I’m looking to collaborate on Messaging Platforms...
 
 
